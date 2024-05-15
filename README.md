@@ -1,4 +1,4 @@
-# Welcome to Raylo Tic tac toe!
+# Welcome to Tic tac toe!
 
 ## Getting started
 
